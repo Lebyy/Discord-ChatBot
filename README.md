@@ -3,7 +3,9 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> A really smart chatbot using the affiliate+ api public for everyone.
+> A really smart chatbot using the lebyy api public for everyone.
+
+> Obtain an API Token from https://api.lebyy.me/dashboard
 
 ## Author
 
